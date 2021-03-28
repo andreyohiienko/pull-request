@@ -3,9 +3,10 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Pull Request develop</header>
+      <header className="App-header">
+        Multiple pull requests already exist
+      </header>
       <p>Some new description</p>
-      <p>Additional description </p>
     </div>
   );
 }
