@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">Pull Request Feature</header>
       <p>Some new description</p>
-      <p>Additional description </p>
+      <p>Additional details</p>
     </div>
   );
 }
